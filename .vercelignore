@@ -1,0 +1,5 @@
+# Keep local secrets and build leftovers out of the upload.
+**/.env
+**/node_modules
+**/dist
+.DS_Store
